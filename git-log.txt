@@ -1,0 +1,5 @@
+78c3a61 feat: add git log txt file
+4c7855f patch: update readme file
+0e01273 feat: add readme file
+c3fea1d feat: add function to calculate IMC
+64eab70 feat: initial commit
